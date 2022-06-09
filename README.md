@@ -16,7 +16,7 @@
 <h1>Output</h1>
 
 <p align="center">
-<img width="450" height="190" alt="output" src="./output/output.png">
+<img width="145" height="220" alt="output" src="./output/output.png">
 </p>
 
 <h2>Discord Server</h2>
